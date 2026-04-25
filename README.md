@@ -2,7 +2,7 @@
 This is a multi agent web based application called Fintech AI
 
 Project Structure:
-ai_finance_assistant/ 
+Fintech_AI/ 
 ├── src/ 
 │   ├── agents/ 
 │   ├── core/ 
